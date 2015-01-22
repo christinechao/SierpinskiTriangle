@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(200,200,200);
-    color: rgb(0,0,0);
+    background-color: rgb(208, 166, 255);
+    color: rgb(255, 255, 255);
     font-family: "Open Sans", sans-serif;
     text-align: center;
 }
@@ -15,7 +15,11 @@ header {
 	
 }
 
+h1{
+    font-size: 300%;
+}
+
 footer {
-	font-style: italic;
-	font-size: 90%;
+	font-style: bold;
+	font-size: 150%;
 }
